@@ -29,6 +29,9 @@ Bu program, Playwright (https://playwright.dev/)'ü kullanır. Playwright, moder
 
 pip install playwright
 
+Bir de Colorama,
+
+pip install colorama
 
 ## Kullanım
 
